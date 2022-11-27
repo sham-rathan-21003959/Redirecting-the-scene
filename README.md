@@ -62,8 +62,10 @@ public class CubeProg : MonoBehaviour
 ```
 
 ## Output:
+
 ### Redirected scene:
 ![20](https://user-images.githubusercontent.com/93587823/204130224-57758149-499a-4d3e-acea-736aafd9ac00.png)
 
 
 ## Result:
+The above C# coding is successfully redirecting the scene in the unity engine.
