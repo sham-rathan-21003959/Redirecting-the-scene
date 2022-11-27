@@ -63,6 +63,8 @@ public class CubeProg : MonoBehaviour
 
 ## Output:
 
+![22](https://user-images.githubusercontent.com/93587823/204130887-3fa77f5f-078e-4b5f-88fd-61e467b7ab0d.png)
+
 ### Redirected scene:
 ![20](https://user-images.githubusercontent.com/93587823/204130224-57758149-499a-4d3e-acea-736aafd9ac00.png)
 
